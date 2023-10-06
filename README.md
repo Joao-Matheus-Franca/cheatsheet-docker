@@ -19,3 +19,9 @@ docker container start nome_do_container
 ```
 docker container stop nome_do_container 
 ```
+
+<h3>Remover containers:</h3>
+
+```
+docker container rm nome_do_container 
+```
