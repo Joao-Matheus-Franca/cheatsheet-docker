@@ -13,3 +13,9 @@ docker ps
 ```
 docker container start nome_do_container 
 ```
+
+<h3>Parar containers:</h3>
+
+```
+docker container stop nome_do_container 
+```
