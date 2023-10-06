@@ -7,3 +7,9 @@
 ```
 docker ps
 ```
+
+<h3>Iniciar containers:</h3>
+
+```
+docker container start nome_do_container 
+```
