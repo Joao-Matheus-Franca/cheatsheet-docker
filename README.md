@@ -2,10 +2,16 @@
   <h1>🐋 Cheat Sheet para Docker 🐋</h1>
 </div>
 
-<h3>Listar containers:</h3>
+<h3>Listar containers ativos:</h3>
 
 ```
 docker ps
+```
+
+<h3>Listar todos os containers:</h3>
+
+```
+docker ps -a
 ```
 
 <h3>Iniciar containers:</h3>
